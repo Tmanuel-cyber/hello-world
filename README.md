@@ -1,2 +1,3 @@
 # hello-world
-My firs repository on github
+My first repository on github
+Im learning programming in ALX 
